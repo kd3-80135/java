@@ -17,6 +17,8 @@ public class SalariedEmployee extends Employee{
 		this.weeklySalary = new Scanner(System.in).nextDouble();
 	}
 	
+	
+	
 	public double calculateTotalSalary () {
 		return this.weeklySalary;
 	}

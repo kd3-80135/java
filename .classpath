@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="Assignement_9.1/src"/>
+	<classpathentry kind="src" path="Assignement_9.2/src"/>
+	<classpathentry kind="src" path="Assignment_1.2/src"/>
+	<classpathentry kind="src" path="Assignment_1.3/src"/>
+	<classpathentry kind="src" path="Assignment_1.4/src"/>
+	<classpathentry kind="src" path="Assignment_1/Assignment_1.1/src"/>
+	<classpathentry kind="src" path="Assignment_2.1/src"/>
+	<classpathentry kind="src" path="Assignment_2.2/src"/>
+	<classpathentry kind="src" path="Assignment_2.3/src"/>
+	<classpathentry kind="src" path="Assignment_2.4/src"/>
+	<classpathentry kind="src" path="Assignment_3.1/src"/>
+	<classpathentry kind="src" path="Assignment_3.2/src"/>
+	<classpathentry kind="src" path="Assignment_3.3/src"/>
+	<classpathentry kind="src" path="Assignment_4.1/src"/>
+	<classpathentry kind="src" path="Assignment_5.1/src"/>
+	<classpathentry kind="src" path="Assignment_6.1/src"/>
+	<classpathentry kind="src" path="Assignment_6.2/src"/>
+	<classpathentry kind="src" path="Assignment_7.1/src"/>
+	<classpathentry kind="src" path="Assignment_7.2/src"/>
+	<classpathentry kind="src" path="Assignment_8.1/src"/>
+	<classpathentry kind="src" path="Assignment_8.2/src"/>
+	<classpathentry kind="src" path="Assignment_9.3/src"/>
+	<classpathentry kind="src" path="Assignment_9.4/src"/>
+	<classpathentry kind="output" path="Assignement_9.1/bin"/>
+</classpath>
