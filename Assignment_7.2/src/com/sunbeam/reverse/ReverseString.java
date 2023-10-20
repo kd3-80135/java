@@ -1,4 +1,4 @@
-package com.sunbeam;
+package com.sunbeam.reverse;
 
 public class ReverseString {
 

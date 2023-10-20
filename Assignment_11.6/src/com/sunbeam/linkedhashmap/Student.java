@@ -1,5 +1,6 @@
 package com.sunbeam.linkedhashmap;
 
+import java.util.Objects;
 import java.util.Scanner;
 
 public class Student {

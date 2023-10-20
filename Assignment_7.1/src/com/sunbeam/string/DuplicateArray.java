@@ -1,4 +1,4 @@
-package assign7q1;
+package com.sunbeam.string;
 
 import java.util.Scanner;
 
